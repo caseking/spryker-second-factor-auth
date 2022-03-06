@@ -1,11 +1,10 @@
 {
   "name": "caseking/second-factor-auth",
-  "type": "package",
+  "type": "library",
   "description": "Second Factor Authentication for Spryker ZED",
   "require": {
     "php": ">=7.2",
-    "sonata-project/google-authenticator": "^2.2.0",
-    "spryker/ramsey-uuid": "^1.0.0"
+    "sonata-project/google-authenticator": ">=2.2.0"
   },
   "require-dev": {
     "spryker/application": "*",
