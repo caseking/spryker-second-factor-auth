@@ -1,5 +1,5 @@
 {
-  "name": "spryker-ufirst/second-factor-auth",
+  "name": "caseking/second-factor-auth",
   "type": "library",
   "description": "Second Factor Authentication for Spryker ZED",
   "require": {
